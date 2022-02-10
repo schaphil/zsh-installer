@@ -13,6 +13,8 @@ source ~/.bash_profile
 
 ### User configuration
 
+PROMPT="%n@%m%: "
+
 ## FUNCTIONS
 
 function diffstr() {
