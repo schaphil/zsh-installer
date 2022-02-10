@@ -13,7 +13,7 @@ source ~/.bash_profile
 
 ### User configuration
 
-PROMPT="%n@%m: "
+PROMPT="$fg[cyan]%}$USER@%{$fg[blue]%}%m ${PROMPT}"
 
 ## FUNCTIONS
 
